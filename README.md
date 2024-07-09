@@ -4,3 +4,4 @@ Materials for the DS2 Workshop. These materials can serve as a self-guided summa
 This repo contains the following files:
 
 * `DS2_Python_workshop_schedule.pdf`
+* `git_GitHub_version_control.pdf`
